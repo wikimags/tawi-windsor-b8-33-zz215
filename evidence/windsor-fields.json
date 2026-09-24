@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tawi_b8_33_budgets__brand",
+    "name": "tawi_b8_33_budgets.brand",
+    "description": "tawi_b8_33_budgets.brand",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__channel",
+    "name": "tawi_b8_33_budgets.channel",
+    "description": "tawi_b8_33_budgets.channel",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__account_id",
+    "name": "tawi_b8_33_budgets.account_id",
+    "description": "tawi_b8_33_budgets.account_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__campaign_id",
+    "name": "tawi_b8_33_budgets.campaign_id",
+    "description": "tawi_b8_33_budgets.campaign_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__campaign_name",
+    "name": "tawi_b8_33_budgets.campaign_name",
+    "description": "tawi_b8_33_budgets.campaign_name",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__currency",
+    "name": "tawi_b8_33_budgets.currency",
+    "description": "tawi_b8_33_budgets.currency",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__reporting_timezone",
+    "name": "tawi_b8_33_budgets.reporting_timezone",
+    "description": "tawi_b8_33_budgets.reporting_timezone",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__synthetic",
+    "name": "tawi_b8_33_budgets.synthetic",
+    "description": "tawi_b8_33_budgets.synthetic",
+    "type": "BOOLEAN",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__budget_month",
+    "name": "tawi_b8_33_budgets.budget_month",
+    "description": "tawi_b8_33_budgets.budget_month",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__monthly_budget",
+    "name": "tawi_b8_33_budgets.monthly_budget",
+    "description": "tawi_b8_33_budgets.monthly_budget",
+    "type": "NUMERIC",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__planned_start",
+    "name": "tawi_b8_33_budgets.planned_start",
+    "description": "tawi_b8_33_budgets.planned_start",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__planned_end",
+    "name": "tawi_b8_33_budgets.planned_end",
+    "description": "tawi_b8_33_budgets.planned_end",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__status_as_of_cutoff",
+    "name": "tawi_b8_33_budgets.status_as_of_cutoff",
+    "description": "tawi_b8_33_budgets.status_as_of_cutoff",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__status_effective_date",
+    "name": "tawi_b8_33_budgets.status_effective_date",
+    "description": "tawi_b8_33_budgets.status_effective_date",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__budget_basis",
+    "name": "tawi_b8_33_budgets.budget_basis",
+    "description": "tawi_b8_33_budgets.budget_basis",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__plan_note",
+    "name": "tawi_b8_33_budgets.plan_note",
+    "description": "tawi_b8_33_budgets.plan_note",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__as_of_date",
+    "name": "tawi_b8_33_budgets.as_of_date",
+    "description": "tawi_b8_33_budgets.as_of_date",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_budgets__source_row_id",
+    "name": "tawi_b8_33_budgets.source_row_id",
+    "description": "tawi_b8_33_budgets.source_row_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_budgets"
+  },
+  {
+    "id": "tawi_b8_33_daily__brand",
+    "name": "tawi_b8_33_daily.brand",
+    "description": "tawi_b8_33_daily.brand",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__channel",
+    "name": "tawi_b8_33_daily.channel",
+    "description": "tawi_b8_33_daily.channel",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__account_id",
+    "name": "tawi_b8_33_daily.account_id",
+    "description": "tawi_b8_33_daily.account_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__campaign_id",
+    "name": "tawi_b8_33_daily.campaign_id",
+    "description": "tawi_b8_33_daily.campaign_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__campaign_name",
+    "name": "tawi_b8_33_daily.campaign_name",
+    "description": "tawi_b8_33_daily.campaign_name",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__currency",
+    "name": "tawi_b8_33_daily.currency",
+    "description": "tawi_b8_33_daily.currency",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__reporting_timezone",
+    "name": "tawi_b8_33_daily.reporting_timezone",
+    "description": "tawi_b8_33_daily.reporting_timezone",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__synthetic",
+    "name": "tawi_b8_33_daily.synthetic",
+    "description": "tawi_b8_33_daily.synthetic",
+    "type": "BOOLEAN",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__date",
+    "name": "tawi_b8_33_daily.date",
+    "description": "tawi_b8_33_daily.date",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__spend",
+    "name": "tawi_b8_33_daily.spend",
+    "description": "tawi_b8_33_daily.spend",
+    "type": "NUMERIC",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__data_status",
+    "name": "tawi_b8_33_daily.data_status",
+    "description": "tawi_b8_33_daily.data_status",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  },
+  {
+    "id": "tawi_b8_33_daily__source_row_id",
+    "name": "tawi_b8_33_daily.source_row_id",
+    "description": "tawi_b8_33_daily.source_row_id",
+    "type": "TEXT",
+    "table": "tawi_b8_33_daily"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "verified_at": "2026-09-24T14:44:55.371Z",
+  "connector": "file",
+  "authenticated_user": "zz215@expert.micro1.ai",
+  "method": "Retrieve every discovered field including source_row_id; compare every source cell by ingestion locator. Normalize boolean True/true and null/empty string representations only.",
+  "datasets": [
+    {
+      "dataset": "tawi_b8_33_daily",
+      "account": "379",
+      "source_rows": 184,
+      "connector_rows": 184,
+      "cells_compared": 2208,
+      "all_values_match": true
+    },
+    {
+      "dataset": "tawi_b8_33_budgets",
+      "account": "380",
+      "source_rows": 8,
+      "connector_rows": 8,
+      "cells_compared": 144,
+      "all_values_match": true
+    }
+  ],
+  "total_cells_compared": 2352,
+  "all_values_match": true
+}
